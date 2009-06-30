@@ -5,6 +5,7 @@ bindkey "${key[End]}" end-of-line
 bindkey -v
   
 # use incremental search
+bindkey "${key[Up]}" up-line-or-search
 bindkey ^R history-incremental-search-backward
 
 # expand history
