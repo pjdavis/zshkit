@@ -1,6 +1,7 @@
 alias dev="cd ~/Development"
 alias doc="cd ~/Documents"
 alias down="cd ~/Downloads"
+alias work="cd ~/rails"
 alias sc="script/console"
 alias ss="script/server"
 alias pi="sudo port -v install"
